@@ -1,2 +1,2 @@
-# nemo-qml-plugins-folderlistmodel-git
+# nemo-qml-plugin-folderlistmodel-git
 Folder list model plugin for Nemo Mobile
